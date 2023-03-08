@@ -1,0 +1,47 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    }
+    
+.titulo{
+
+    text-align: center;
+    color: white; 
+    padding: 2%;
+    background-color: #5B3E55;
+    
+}
+
+.cuerpo{
+
+    background-color: #003042 ;
+    margin-top: auto;
+    margin-bottom: auto;
+
+}
+
+.cuerpo h2{    
+    color: white;
+    text-align: center;
+}
+
+
+.cuerpo p{
+
+    background-color: #007F8B;
+    padding: 2%;
+    text-align: center;
+    border-radius: 20px;
+    
+}
+
+.cuerpo div{
+
+    width: 45%;
+    display: inline-block;
+    margin-block: 3%;
+    margin-left: 3%;
+    
+}
+
+
